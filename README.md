@@ -1,4 +1,4 @@
-# Simple Bot for Twitter
+# Simple Twitter Bot
 
 Using Twitter REST API
 
